@@ -1,0 +1,4 @@
+G = (V, E).
+Tableau : O(|V|²).
+Tas binaire : O(|E| log |V|).
+Tas de Fibonacci : O(|V| log |V| + |E|).

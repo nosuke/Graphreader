@@ -1,0 +1,33 @@
+*******************
+*** GÉNÉRALITÉS ***
+*******************
+
+Projet : Graphreader.
+Organisation : Université de Technologie de Troyes (UTT).
+
+Description : Logiciel permettant la lecture de graphes et l'utilision des algorithmes de Prim/Kruskal.
+
+Début du développement : 04/12/2012.
+Fin du développement : 07/01/2013.
+
+Contact :
+- florent.lucet@utt.fr.
+- marie_florence.reveneau@utt.fr.
+
+Mainteneurs principaux :
+- Florent LUCET (ISI1).
+- Marie-Florence REVENEAU (ISI1).
+
+
+
+***************
+*** DÉTAILS ***
+***************
+
+bin : fichiers binaires exécutables de l'application.
+
+doc : documentation de l'application.
+
+javadoc : javadoc de l'application.
+
+src : fichiers sources de l'application.
